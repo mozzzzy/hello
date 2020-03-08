@@ -17,5 +17,5 @@ package hello
  */
 
 func Hello() string {
-	return "World"
+	return "World!!"
 }
